@@ -1,3 +1,10 @@
+### Hi there 👋 I'm Abdulrahman Khaled!
+
+💻 I'm an undergrad-student at EUI - Egypt Univesity of Informatics and a Software Enginnerr & A Cybersecurity Analyst in the making. Hoping to be a White Hat hacker.
+
+:mag: I am a curious and :bulb: a creative person and always ready to learn and discover new hobbies and interests:books:.
+I also enjoy volleyball 🏐, movies :clapper: and good music 📻.
+
 ### Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
