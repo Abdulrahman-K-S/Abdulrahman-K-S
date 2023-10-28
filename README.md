@@ -2,7 +2,8 @@
 
 💻 I'm an undergrad-student at EUI - Egypt Univesity of Informatics and a Software Enginnerr & A Cybersecurity Analyst in the making. Hoping to be a White Hat hacker.
 
-:mag: I am a curious and :bulb: a creative person and always ready to learn and discover new hobbies and interests:books:.
+I am a curious :mag: and a creative :bulb: person and always ready to learn and discover new hobbies and interests :books:.
+
 I also enjoy volleyball 🏐, movies :clapper: and good music 📻.
 
 ### Technologies
