@@ -1,21 +1,15 @@
-### Hi there 👋 I'm Abdulrahman Khaled!
+# 💫 About Me:
+<br>💻 I'm an undergrad-student at EUI - Egypt Univesity of Informatics and a Software Enginnerr & A Cybersecurity Analyst in the making. Hoping to be a White Hat hacker.<br><br>I am a curious :mag: and a creative :bulb: person and always ready to learn and discover new hobbies and interests :books:.<br><br>I also enjoy volleyball 🏐, movies :clapper: and good music 📻.
 
-💻 I'm an undergrad-student at EUI - Egypt Univesity of Informatics and a Software Enginnerr & A Cybersecurity Analyst in the making. Hoping to be a White Hat hacker.
 
-I am a curious :mag: and a creative :bulb: person and always ready to learn and discover new hobbies and interests :books:.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-kamel-511676242/) 
 
-I also enjoy volleyball 🏐, movies :clapper: and good music 📻.
-
-### Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-0077B5?style=for-the-badge&logo=Ocaml&logoColor=white&labelColor=%23F18903&color=%23484444%20)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-### Statistics
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-k-s&layout=compact&text_bold=true&hide=xslt&langs_count=5&theme=github_dark_dimmed" height="174" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-k-s&show_icons=true&rank_icon=github&text_bold=true&theme=github_dark_dimmed" width="415"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-K-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-K-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
